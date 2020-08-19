@@ -1,6 +1,6 @@
 ---
 templateKey: 'blog-post'
-title: '1Just in: small batch of Jamaican Blue Mountain in store next week'
+title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
 date: 2017-01-04T15:04:10.000Z
 featuredpost: true
 description: >-
@@ -17,7 +17,7 @@ We expect the shipment of a limited quantity of green beans next Monday. We’ll
 
 Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
 
-## A little history1
+## A little history
 
 The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
 
